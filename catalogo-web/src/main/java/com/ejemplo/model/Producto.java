@@ -1,4 +1,4 @@
-package com.ejemplo.model;
+package main.java.com.ejemplo.model;
 
 public class Producto {
 
