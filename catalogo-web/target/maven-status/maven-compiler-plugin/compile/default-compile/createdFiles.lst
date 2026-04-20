@@ -1,0 +1,4 @@
+com\ejemplo\model\CarritoItem.class
+com\ejemplo\servlet\CatalogoServlet.class
+com\ejemplo\model\Producto.class
+com\ejemplo\servlet\CarritoServlet.class
